@@ -1,5 +1,3 @@
-# Lab 1
-
 ## Objectives
 1. Practice terminal or shell commands
 2. Create your first Node.js server-side JavaScript file
